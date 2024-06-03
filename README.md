@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yogudeepan.r@gmail.com**
 
-- ⚡ Fun fact **You could send an email before the internet existed!**
+- ⚡ Fun fact **You could email before the internet existed!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
