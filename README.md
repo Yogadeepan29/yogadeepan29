@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./header.png" alt="Banner" />
+</p>
 <h1 align="center">👋 Hi there, I'm Yogadeepan</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack Enthusiast | Building Scalable Web Apps</h3>
 
